@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Minesweeper {
 	static int numXcells = 40;
 	static int numYcells = 20;
-	static int numBombs = 60;
+	static int numBombs = 120;
 	
 	final int GRID_WIDTH,GRID_HEIGHT,NUM_MINES;
 	private int unflaggedMines;
